@@ -4,7 +4,7 @@
 - Use conditional formatting to identify how many products have a price above 500$ and which products genereted
 less than 1000$ revenue
 
-_Identifying spelling error by PIVOT TABLE from Plos to Plus
+- Identifying spelling error by PIVOT TABLE from Plos to Plus
 
--Connecting 2 sheets together and using VLOOKUP to search for the rate of pay from employee rate data in s spreadsheet.
+- Connecting 2 sheets together and using VLOOKUP to search for the rate of pay from employee rate data in s spreadsheet.
 
